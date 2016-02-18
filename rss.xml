@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[SuperYachts]]></title>
         <description><![CDATA[SuperYachts]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/superyachts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 16:32:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Feb 2016 16:32:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/superyachts/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3418962-8001-42ea-9e51-8b6680676bd0.png">]]></description>
+            <link>https://thegrid.ai/superyachts/ee0561ea-e55d-4bdd-a9f1-75d93ce1214a/index.html</link>
+            <guid isPermaLink="false">ee0561ea-e55d-4bdd-a9f1-75d93ce1214a</guid>
+            <pubDate>Thu, 18 Feb 2016 16:32:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e88fc9d2-6910-44b9-a636-85b6990533d7.png">]]></description>
-            <link>undefined7b24cea3-015f-47b6-a383-3b14a8a0efa2/index.html</link>
+            <link>https://thegrid.ai/superyachts/7b24cea3-015f-47b6-a383-3b14a8a0efa2/index.html</link>
             <guid isPermaLink="false">7b24cea3-015f-47b6-a383-3b14a8a0efa2</guid>
             <pubDate>Thu, 18 Feb 2016 16:31:28 GMT</pubDate>
         </item>
