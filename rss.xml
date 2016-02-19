@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SuperYachts]]></title>
+        <description><![CDATA[SuperYachts]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 19 Feb 2016 08:24:00 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Ferretti Group Reveal The New Navetta In Miami Yacht &period;&period;&period; &colon; http&colon;&sol;&sol;www&period;thebingbing&period;com&sol;luxury&sol;1673413 &comma;" src="https://pbs.twimg.com/media/CbkDrr5UcAADcH3.jpg:large">]]></description>
+            <link>https://twitter.com/andrewhall343/status/700595266395582466</link>
+            <guid isPermaLink="false">7538eb6c-da1f-4e05-88b9-485bf9cf5a28</guid>
+            <pubDate>Fri, 19 Feb 2016 08:23:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
