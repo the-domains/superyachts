@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SuperYachts]]></title>
+        <description><![CDATA[SuperYachts]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 20 Feb 2016 17:06:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Russian billionaire who complains £15 million superyacht is 'not big enough' in ...]]></title>
+            <description><![CDATA[<article><h1>Russian billionaire who complains £15 million superyacht is 'not big enough' in ...</h1><p>Kirill Pisarev, 46, said the boat - with an 85 metre sun deck, gym and five double guest rooms - is too small</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5e592da7a6a300257d482bbf86cf7658be08c25.jpg"></article>]]></description>
+            <link>http://www.superyachters.com/post/4798485/russian-billionaire-who-complains-15-million-superyacht-is-not-b</link>
+            <guid isPermaLink="false">bdb73bac-05f6-4d5b-84ca-f4682a2d9ade</guid>
+            <pubDate>Sat, 20 Feb 2016 17:06:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
