@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[SuperYachts]]></title>
         <description><![CDATA[SuperYachts]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/superyachts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 17:06:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 20 Feb 2016 17:07:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/superyachts/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Yacht Charters in Monaco]]></title>
+            <description><![CDATA[<article><h1>Yacht Charters in Monaco</h1><p>Monaco, the second smallest independent state in the world after the Vatican, has a big reputation as a place of Chanel and champagne, palaces and Grimaldi Princes and superyachts alongside supercars.But underneath the veneer of sophistication, lie the se...</p><img src="http://se5revolution.s3.amazonaws.com/uploads/7053/0600dc17-c3e3-4b3d-bcf8-60899cf6d470.jpg"></article>]]></description>
+            <link>http://www.superyachters.com/post/4827169/yacht-charters-in-monaco</link>
+            <guid isPermaLink="false">fc7cbbbc-addc-41c6-acd2-504aa6caafbf</guid>
+            <pubDate>Sat, 20 Feb 2016 17:06:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Russian billionaire who complains £15 million superyacht is 'not big enough' in ...]]></title>
-            <description><![CDATA[<article><h1>Russian billionaire who complains £15 million superyacht is 'not big enough' in ...</h1><p>Kirill Pisarev, 46, said the boat - with an 85 metre sun deck, gym and five double guest rooms - is too small</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5e592da7a6a300257d482bbf86cf7658be08c25.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Russian billionaire who complains £15 million superyacht is 'not big enough' in ...</h1><p>Kirill Pisarev, 46, said the boat - with an 85 metre sun deck, gym and five double guest rooms - is too small</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c0008185c1e0c6870464fea19b42310e08ea17e2.jpg"></article>]]></description>
             <link>http://www.superyachters.com/post/4798485/russian-billionaire-who-complains-15-million-superyacht-is-not-b</link>
             <guid isPermaLink="false">bdb73bac-05f6-4d5b-84ca-f4682a2d9ade</guid>
             <pubDate>Sat, 20 Feb 2016 17:06:30 GMT</pubDate>
