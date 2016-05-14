@@ -1,28 +1,40 @@
-name: SuperYachts
 favicon: null
-layout_spectrum: 0.22631114325486124
-typography_spectrum: 0.3511342166457325
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: SuperYachts
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
-  brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+  saturation: 0.8607428767718375
   brandStrength: 0.07876925868913531
   lightness: 0.3866382627747953
-  saturation: 0.8607428767718375
-  rhythmicContrast: 0.28249782021157444
-purpose: []
+  brandColors:
+    - '#A1A1A0'
+    - '#D8D8D8'
+    - '#FCFCFC'
+    - '#000000'
+    - '#6D6D6C'
+  rhythmicContrast: 0.2824978202115744
+typography_spectrum: 0.3511342166457325
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.2263111432548612
+analytics:
+  twitter: null
+  google: null
+  facebook: null
